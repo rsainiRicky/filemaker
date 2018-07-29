@@ -1,0 +1,13 @@
+.invalid{
+    border: 1px solid red;
+    border-radius: 30px;
+}
+.header{
+    margin-bottom:3rem;
+}
+.logo{
+    width: 200px;
+    margin-bottom:4rem;
+    
+}
+
